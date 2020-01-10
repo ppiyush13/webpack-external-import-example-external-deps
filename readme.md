@@ -19,3 +19,6 @@ Then start container and micro-app dev servers with
 ```javascript
 pnpm run start -r
 ```
+
+Child (micro-app) dev server will start running on port 7001
+Parent (container) dev server will start  running on port 7000
