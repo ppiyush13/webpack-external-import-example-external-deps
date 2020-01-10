@@ -2,8 +2,10 @@
 
 Created for to track issue https://github.com/ScriptedAlchemy/webpack-external-import/issues/58
 
-This repository is monorepo configured with PNPM tool.
+
+This repository is monorepo configured with PNPM tool
 Please ensure that pnpm is globally installed on your system
+
 If not,
 ```javascript
 npm i pnpm -g
